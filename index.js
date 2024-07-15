@@ -13,3 +13,4 @@ const loginValidationPhrase = isAuthorized === true ? "Welcome " + username + "!
 const randomNumber = Math.floor(Math.random()* 10)
 
 const luckyNumberPhrase = `Your lucky number is ${randomNumber}!`
+//
